@@ -41,14 +41,6 @@ We build for systematic traders and investment professionals who want:
 - Risk-adjusted strategy comparison
 - Systematic approach to options allocation
 
-## Not Our Users
-
-We don't build for:
-- Day traders seeking hot tips
-- Retail investors wanting simple interfaces
-- Social traders following others
-- Anyone expecting guaranteed profits
-
 ## Products
 
 [OutcomeDesk](https://github.com/market-machinery/outcomedesk) - Real-time options analysis engine. Analyzes 15+ strategy types with sub-200ms response times using differential dataflow computation.
