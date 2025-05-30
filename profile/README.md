@@ -64,5 +64,3 @@ We don't build for:
 - High-performance computing for financial applications
 
 ---
-
-**Market Machinery** - Tools for systematic traders who understand that precision matters more than promises.
