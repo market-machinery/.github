@@ -51,7 +51,7 @@ We don't build for:
 
 ## Products
 
-**REDACTED** - Real-time options analysis engine. Analyzes 15+ strategy types with sub-200ms response times using differential dataflow computation.
+**[OutcomeDesk]**(https://github.com/market-machinery/outcomedesk) - Real-time options analysis engine. Analyzes 15+ strategy types with sub-200ms response times using differential dataflow computation.
 
 *[Detailed documentation in separate repository]*
 
