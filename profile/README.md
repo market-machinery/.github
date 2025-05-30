@@ -6,8 +6,6 @@
 
 Systematic analysis beats intuition. Markets are efficient. Alpha is rare. The edge comes from deploying capital with mathematical precision.
 
-**If you disagree, stop reading now.**
-
 ### Core Principles
 
 **No Arbitrage** - Risk-free profits don't exist. Institutional capital eliminates inefficiencies. We build systematic risk-adjusted analysis, not fantasy strategies.
